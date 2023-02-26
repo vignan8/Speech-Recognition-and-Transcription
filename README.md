@@ -1,5 +1,5 @@
 # Speech-to-text-Translation-Pytorch
-Machine translation Model with attention model and Pyramidal BiLSTM to reduce computational complexity
+A computational framework for reducing complexity in machine translation using attention models and Pyramidal Bidirectional Long Short-Term Memory (BiLSTM) architecture.
 
 
-Neural machine translation (NMT) is an approach to machine translation that uses an artificial neural network to predict the likelihood of a sequence of words, typically modeling entire sentences in a single integrated model.
+"Neural machine translation (NMT) is a technique for machine translation that leverages an artificial neural network to estimate the probability of a sequence of words, typically by modeling complete sentences in a unified, integrated model.
