@@ -1,4 +1,4 @@
-# Speech-to-Text-Translation-Pytorch
+# Speech-Recognition-and-Transcription-Pytorch
 A computational framework for reducing complexity in machine translation using attention models and Pyramidal Bidirectional Long Short-Term Memory (BiLSTM) architecture.
 
 
